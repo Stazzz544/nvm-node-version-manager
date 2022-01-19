@@ -8,7 +8,7 @@ Uninstall nvm windows - если проблемы - удалить предыд�
 Run nvm-setup.exe as adminstrator
 Run powershell or your preferred terminal as administrator then run
 nvm install latest
-nvm use <latest version>
+nvm use latest version
 
 
 
